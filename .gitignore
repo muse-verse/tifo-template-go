@@ -1,0 +1,7 @@
+# tifo keeps its local state here; it lives on the tifo/state branch.
+.tifo/
+
+# Build output
+/service
+/bin/
+coverage.out
