@@ -1,4 +1,6 @@
 # syntax=docker/dockerfile:1
+# SPDX-FileCopyrightText: 2026 Kaio Cunha
+# SPDX-License-Identifier: MIT-0
 
 # Build a static binary.
 FROM golang:1.25-alpine AS build
