@@ -25,3 +25,7 @@ docker run --rm -p 8080:8080 service
 
 Rename the module in `go.mod` from `service` to your repository path, for example
 `github.com/<owner>/<name>`, and add your routes next to `/healthz` in `newMux`.
+
+## License
+
+MIT-0: use, change and ship this code with no attribution. See [LICENSE](LICENSE).
