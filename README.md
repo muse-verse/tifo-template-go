@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Kaio Cunha
+SPDX-License-Identifier: MIT-0
+-->
+
 # tifo-template-go
 
 The golden-path Go service that `tifo init` creates. It is a GitHub template repository:
@@ -28,4 +33,6 @@ Rename the module in `go.mod` from `service` to your repository path, for exampl
 
 ## License
 
-MIT-0: use, change and ship this code with no attribution. See [LICENSE](LICENSE).
+The starter files of this template are MIT-0: use, change and ship them with no attribution. The
+SPDX header of each file says so, and the license text is in [LICENSES/MIT-0.txt](LICENSES/MIT-0.txt).
+The code that you add is yours, under the license that you choose.

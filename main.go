@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2026 Kaio Cunha
+// SPDX-License-Identifier: MIT-0
+
 // Command service is the golden-path HTTP service that tifo init generates.
 // It serves /healthz for liveness and readiness probes and shuts down
 // gracefully on SIGINT or SIGTERM.
